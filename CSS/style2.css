@@ -1,0 +1,33 @@
+h2 {
+    color: green;
+}
+
+.boxmodel{
+    border: 5px solid rebeccapurple;
+    color: green;
+    display: inline-block;
+    padding: -5px 20px;
+    margin: 0px 20px;
+    width: 33px;
+    height: 55px;
+    text-align: center;
+    line-height: 55px;
+    
+}
+
+p {
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+h2 p{
+ font-size: 10px;
+}
+
+div > span {
+    font-size: 5em;
+}
+
+p span{
+    font-size: 5rem;
+}
